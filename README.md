@@ -77,6 +77,12 @@ for remote monitoring.
 - GPS accuracy may vary depending on conditions
 - Prototype is not intended for high-voltage cable fault detection
 
-## Project Image
+## Project Images
 
-![Underground Cable Fault Detection Using IoT](underground_cable_project.jpg)
+### Experimental Setup
+
+![Experimental Setup](underground_cable_working_image.jpg)
+
+### Project Prototype
+
+![Project Prototype](underground_cable_project.jpg)
